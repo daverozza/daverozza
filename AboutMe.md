@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daverozza
 - 👀 I’m interested in gaming, skating, and sharing food 
-- 🌱 I’m currently learning about Cloud Security and studying for CCSK and Sec+ exams
+- 🌱 I’m currently learning about Cloud Security and studying for CCSK 
 - 📫 How to reach me: daverozza@gmail.com
 
 
